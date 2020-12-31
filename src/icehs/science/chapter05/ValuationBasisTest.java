@@ -25,8 +25,13 @@ public class ValuationBasisTest {
 			System.out.println("Silver Class입니다. ");
 		}else if(result >= 80 && result < 85) {
 			System.out.println("Bronze Class입니다.");
+			
+		}
+	}
+}
+	
 
 		
-	}
+	
 
-}
+
